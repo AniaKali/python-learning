@@ -1,3 +1,5 @@
 # python-learning
-This is a test message
-Just learning how to use git
+This is my secon attempt, checking how to create second brach
+commit
+pull requests
+and merge
